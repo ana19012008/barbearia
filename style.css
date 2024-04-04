@@ -1,5 +1,14 @@
-body {background-color: rgb(151, 85, 212);font-size: large;}
+body {background-color: rgb(151, 85, 212);
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
 p {text-align: center;color: rgb(255, 255, 255);}
 h1 {text-align: center;color: rgb(251, 255, 0); }
 b {color: rgb(0, 0, 0); text-align: center}
-
+.container img{
+    max-width: 300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
+div { text-align: center;}
