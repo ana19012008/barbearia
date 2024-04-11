@@ -1,4 +1,4 @@
-body {background-color: rgb(151, 85, 212);
+body {background-color: rgb(133, 133, 133);
     margin-left: 1cm;
     margin-right: 1cm;
 }
@@ -12,3 +12,6 @@ b {color: rgb(0, 0, 0); text-align: center}
     height: auto;
 }
 div { text-align: center;}
+.principal {
+    background-color: rgb(126, 84, 84);
+}
