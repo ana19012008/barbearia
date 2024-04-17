@@ -1,9 +1,9 @@
-body {background-color: rgb(133, 133, 133);
+body {background-color: rgb(97, 59, 59);
     margin-left: 1cm;
     margin-right: 1cm;
 }
 p {text-align: center;color: rgb(255, 255, 255);}
-h1 {text-align: center;color: rgb(251, 255, 0); }
+h1 {text-align: center;color: rgb(255, 0, 0); }
 b {color: rgb(0, 0, 0); text-align: center}
 .container img{
     max-width: 300px;
@@ -13,5 +13,5 @@ b {color: rgb(0, 0, 0); text-align: center}
 }
 div { text-align: center;}
 .principal {
-    background-color: rgb(126, 84, 84);
+   background-color: rgb(116, 116, 116);
 }
