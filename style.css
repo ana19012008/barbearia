@@ -1,17 +1,17 @@
-body {background-color: rgb(97, 59, 59);
+body {background-color: rgb(218, 173, 173);
     margin-left: 1cm;
     margin-right: 1cm;
 }
-p {text-align: center;color: rgb(255, 255, 255);}
-h1 {text-align: center;color: rgb(255, 0, 0); }
+p {text-align: center;color: rgb(65, 65, 65);}
+h1 {text-align: center;color: rgb(195, 0, 255); }
 b {color: rgb(0, 0, 0); text-align: center}
 .container img{
-    max-width: 300px;
-    max-height:300px;
+    max-width: 400px;
+    max-height:400px;
     width: auto;
     height: auto;
 }
 div { text-align: center;}
 .principal {
-   background-color: rgb(116, 116, 116);
+   background-color: rgb(218, 173, 173);
 }
