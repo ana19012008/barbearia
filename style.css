@@ -1,9 +1,21 @@
-body {background-color: rgb(218, 173, 173);
+body {background-color:rgb(93, 112, 88);
     margin-left: 1cm;
     margin-right: 1cm;
 }
+header {
+background-color:rgb(211, 206, 196);
+}
+main {
+background-color: rgb(240, 125, 18);
+}
+footer{
+background-color: rgb(95, 95, 95);
+}
+
 p {text-align: center;color: rgb(65, 65, 65);}
+
 h1 {text-align: center;color: rgb(195, 0, 255); }
+
 b {color: rgb(0, 0, 0); text-align: center}
 .container img{
     max-width: 400px;
@@ -11,7 +23,8 @@ b {color: rgb(0, 0, 0); text-align: center}
     width: auto;
     height: auto;
 }
+
 div { text-align: center;}
 .principal {
-   background-color: rgb(218, 173, 173);
+   background-color:rgb(62, 153, 160);
 }
