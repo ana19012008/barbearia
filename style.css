@@ -1,23 +1,28 @@
 body {background-color:rgb(93, 112, 88);
-    margin-left: 1cm;
-    margin-right: 1cm;
+
 }
 header {
-background-color:rgb(211, 206, 196);
+background-color:rgb(236, 194, 110);
 }
 main {
-background-color: rgb(240, 125, 18);
+background-color: rgb(245, 237, 200);
+
 }
 footer{
 background-color: rgb(95, 95, 95);
 }
 
-p {text-align: center;color: rgb(65, 65, 65);}
+p {
+    text-align: center;color: rgb(65, 65, 65);
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
 
 h1 {text-align: center;color: rgb(195, 0, 255); }
 
 b {color: rgb(0, 0, 0); text-align: center}
-.container img{
+
+.banner img{
     max-width: 400px;
     max-height:400px;
     width: auto;
@@ -25,6 +30,19 @@ b {color: rgb(0, 0, 0); text-align: center}
 }
 
 div { text-align: center;}
+
 .principal {
    background-color:rgb(62, 153, 160);
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
 }
