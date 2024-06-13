@@ -141,3 +141,17 @@ width: 50%;
 .enviar:hover{
     background-color: rgb(42, 85, 105);
 }
+
+table {
+    margin: 20px 0  40px;
+}
+
+thead {
+    background-color: rgb(84, 190, 240);
+    color: white;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px 15px;
+}
