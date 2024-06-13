@@ -140,6 +140,7 @@ width: 50%;
 }
 .enviar:hover{
     background-color: rgb(42, 85, 105);
+    transform: scale(1.2);
 }
 
 table {
@@ -154,4 +155,17 @@ thead {
 td, th {
     border: 1px solid black;
     padding: 8px 15px;
+}
+
+/* css da pagina principal*/
+
+#banner {
+    width:100%;
+}
+
+.principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
