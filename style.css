@@ -159,8 +159,8 @@ td, th {
 
 /* css da pagina principal*/
 
-#banner {
-    width:100%;
+.banner {
+    width:10px;
 }
 
 .principal {
@@ -169,3 +169,4 @@ td, th {
     margin: 0 0 1em;
     clear: left;
 }
+
