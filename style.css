@@ -160,13 +160,43 @@ td, th {
 /* css da pagina principal*/
 
 .banner {
-    width:10px;
+    text-align: center;
+    margin: 30px  30px ;
+}
+
+#banner {
+    width: 500px;
 }
 
 .principal {
     text-align: center;
-    font-size: 2em;
+    font-size: 18px;
     margin: 0 0 1em;
     clear: left;
+    border: 1px solid blueviolet ;
 }
 
+.video {
+    text-align: center;
+}
+
+.mapa {
+    text-align: center;
+}
+
+.mapa h2 {
+    font-size: 20px;
+    margin: 20px 20px;
+}
+
+.mapa p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.title h1 {
+    text-align: center;
+    font-size: 25px;
+    color: blueviolet;
+    margin-top: 30px;
+}
